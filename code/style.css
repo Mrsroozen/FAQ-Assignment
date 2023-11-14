@@ -1,0 +1,16 @@
+html {
+  background: #f2f1f4;
+  color: #19171c;
+}
+
+body {
+  background-color: pink;
+}
+
+.description {
+  display: none;
+}
+
+.active + .description {
+  display: block;
+}
