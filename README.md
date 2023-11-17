@@ -89,3 +89,4 @@ Done with the main task? Here's some ideas for things to continue with:
 - [nth-child in CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
 - [CSS Cursor Property](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
 # FAQ-Assignment
+# accordion
